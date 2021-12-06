@@ -1,0 +1,9 @@
+.Header{
+    background-image: url(/home/shalyn/Documents/resort-website/images/nightevents.jpeg);
+    color: olive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-color: beige;
+}
